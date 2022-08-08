@@ -1,1 +1,3 @@
-# Applied-Statistics
+Does price of a car depend on year, mileage, and title-status?
+
+This project consisted of conducting a statistical multilinear regression model of price based on year, mileage, and title status of vehicles. No casual conclusions can be implied since the model is used to understand and describe price as it relates to year,mileage, and title status. The hypotheses investigated were whether or not year, mileage, and title status as a model is significant in explaining car prices and whether or not the variables mentioned previously are significant individually in explaining car prices. This multilinear regression model involved covering assumptions such as linearity, independence, equal variance, and normality.
